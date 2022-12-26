@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="rayssa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="ray" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d4241acd3d66ef1b7b026ff6a7d25d84.gif">
 </div>
 
 ##
